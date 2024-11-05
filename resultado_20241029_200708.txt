@@ -1,0 +1,137 @@
+
+Fórmula lógica: A ∧ B ∧ C ∧ D
+Mapeo de proposiciones: {'Es hada': 'A', 'derrota a dragon': 'B', 'derrota a fantasma': 'C', 'derrota a siniestro': 'D'}
+A | B | C | D | Resultado
+-------------------------
+V | V | V | V | V
+V | V | V | F | F
+V | V | F | V | F
+V | V | F | F | F
+V | F | V | V | F
+V | F | V | F | F
+V | F | F | V | F
+V | F | F | F | F
+F | V | V | V | F
+F | V | V | F | F
+F | V | F | V | F
+F | V | F | F | F
+F | F | V | V | F
+F | F | V | F | F
+F | F | F | V | F
+F | F | F | F | F
+
+Explicación de la tabla de verdad:
+A es Verdadero y B es Verdadero y C es Verdadero y D es Verdadero. La fórmula evaluada es: True ∧ True ∧ True ∧ True = True
+A es Verdadero y B es Verdadero y C es Verdadero y D es Falso. La fórmula evaluada es: True ∧ True ∧ True ∧ False = False
+A es Verdadero y B es Verdadero y C es Falso y D es Verdadero. La fórmula evaluada es: True ∧ True ∧ False ∧ True = False
+A es Verdadero y B es Verdadero y C es Falso y D es Falso. La fórmula evaluada es: True ∧ True ∧ False ∧ False = False
+A es Verdadero y B es Falso y C es Verdadero y D es Verdadero. La fórmula evaluada es: True ∧ False ∧ True ∧ True = False
+A es Verdadero y B es Falso y C es Verdadero y D es Falso. La fórmula evaluada es: True ∧ False ∧ True ∧ False = False
+A es Verdadero y B es Falso y C es Falso y D es Verdadero. La fórmula evaluada es: True ∧ False ∧ False ∧ True = False
+A es Verdadero y B es Falso y C es Falso y D es Falso. La fórmula evaluada es: True ∧ False ∧ False ∧ False = False
+A es Falso y B es Verdadero y C es Verdadero y D es Verdadero. La fórmula evaluada es: False ∧ True ∧ True ∧ True = False
+A es Falso y B es Verdadero y C es Verdadero y D es Falso. La fórmula evaluada es: False ∧ True ∧ True ∧ False = False
+A es Falso y B es Verdadero y C es Falso y D es Verdadero. La fórmula evaluada es: False ∧ True ∧ False ∧ True = False
+A es Falso y B es Verdadero y C es Falso y D es Falso. La fórmula evaluada es: False ∧ True ∧ False ∧ False = False
+A es Falso y B es Falso y C es Verdadero y D es Verdadero. La fórmula evaluada es: False ∧ False ∧ True ∧ True = False
+A es Falso y B es Falso y C es Verdadero y D es Falso. La fórmula evaluada es: False ∧ False ∧ True ∧ False = False
+A es Falso y B es Falso y C es Falso y D es Verdadero. La fórmula evaluada es: False ∧ False ∧ False ∧ True = False
+A es Falso y B es Falso y C es Falso y D es Falso. La fórmula evaluada es: False ∧ False ∧ False ∧ False = False
+
+Árbol de Decisiones (representación textual):
+A es Verdadero:
+    B es Verdadero:
+        C es Verdadero:
+            D es Verdadero:
+Resultado: V
+------------------------------
+A es Verdadero:
+    B es Verdadero:
+        C es Verdadero:
+            D es Falso:
+Resultado: F
+------------------------------
+A es Verdadero:
+    B es Verdadero:
+        C es Falso:
+            D es Verdadero:
+Resultado: F
+------------------------------
+A es Verdadero:
+    B es Verdadero:
+        C es Falso:
+            D es Falso:
+Resultado: F
+------------------------------
+A es Verdadero:
+    B es Falso:
+        C es Verdadero:
+            D es Verdadero:
+Resultado: F
+------------------------------
+A es Verdadero:
+    B es Falso:
+        C es Verdadero:
+            D es Falso:
+Resultado: F
+------------------------------
+A es Verdadero:
+    B es Falso:
+        C es Falso:
+            D es Verdadero:
+Resultado: F
+------------------------------
+A es Verdadero:
+    B es Falso:
+        C es Falso:
+            D es Falso:
+Resultado: F
+------------------------------
+A es Falso:
+    B es Verdadero:
+        C es Verdadero:
+            D es Verdadero:
+Resultado: F
+------------------------------
+A es Falso:
+    B es Verdadero:
+        C es Verdadero:
+            D es Falso:
+Resultado: F
+------------------------------
+A es Falso:
+    B es Verdadero:
+        C es Falso:
+            D es Verdadero:
+Resultado: F
+------------------------------
+A es Falso:
+    B es Verdadero:
+        C es Falso:
+            D es Falso:
+Resultado: F
+------------------------------
+A es Falso:
+    B es Falso:
+        C es Verdadero:
+            D es Verdadero:
+Resultado: F
+------------------------------
+A es Falso:
+    B es Falso:
+        C es Verdadero:
+            D es Falso:
+Resultado: F
+------------------------------
+A es Falso:
+    B es Falso:
+        C es Falso:
+            D es Verdadero:
+Resultado: F
+------------------------------
+A es Falso:
+    B es Falso:
+        C es Falso:
+            D es Falso:
+Resultado: F
+------------------------------

@@ -1,0 +1,13 @@
+
+Fórmula lógica: B ∧ B
+Mapeo de proposiciones: {'es de dia': 'B'}
+B | Resultado
+-------------
+V | V
+F | F
+
+Árbol de Decisión Binario:
+B es Verdadero -> V
+------------------------------
+B es Falso -> F
+------------------------------

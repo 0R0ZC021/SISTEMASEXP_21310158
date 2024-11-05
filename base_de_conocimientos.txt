@@ -1,0 +1,80 @@
+Si El cielo está nublado y hay viento fuerte, entonces es verdadero.
+Si El cielo está nublado y no hay viento fuerte, entonces es falso.
+Si no El cielo está nublado y hay viento fuerte, entonces es falso.
+Si no El cielo está nublado y no hay viento fuerte, entonces es falso.
+Si Está lloviendo y hay tormenta, entonces es verdadero.
+Si Está lloviendo y no hay tormenta, entonces es verdadero.
+Si no Está lloviendo y hay tormenta, entonces es verdadero.
+Si no Está lloviendo y no hay tormenta, entonces es falso.
+Si Hay tráfico y es hora pico, entonces es verdadero.
+Si Hay tráfico y no es hora pico, entonces es falso.
+Si no Hay tráfico y es hora pico, entonces es falso.
+Si no Hay tráfico y no es hora pico, entonces es falso.
+Si El semáforo está en rojo y el vehículo está detenido, entonces es verdadero.
+Si El semáforo está en rojo y no el vehículo está detenido, entonces es falso.
+Si no El semáforo está en rojo y el vehículo está detenido, entonces es falso.
+Si no El semáforo está en rojo y no el vehículo está detenido, entonces es falso.
+Si Hay nieve en la carretera y está congelada, entonces es verdadero.
+Si Hay nieve en la carretera y no está congelada, entonces es verdadero.
+Si no Hay nieve en la carretera y está congelada, entonces es verdadero.
+Si no Hay nieve en la carretera y no está congelada, entonces es falso.
+Si Es hora de almuerzo y el restaurante está lleno, entonces es verdadero.
+Si Es hora de almuerzo y no el restaurante está lleno, entonces es falso.
+Si no Es hora de almuerzo y el restaurante está lleno, entonces es falso.
+Si no Es hora de almuerzo y no el restaurante está lleno, entonces es falso.
+Si Es día festivo y es fin de semana, entonces es verdadero.
+Si Es día festivo y no es fin de semana, entonces es verdadero.
+Si no Es día festivo y es fin de semana, entonces es verdadero.
+Si no Es día festivo y no es fin de semana, entonces es falso.
+Si La biblioteca está abierta y hay libros disponibles, entonces es verdadero.
+Si La biblioteca está abierta y no hay libros disponibles, entonces es falso.
+Si no La biblioteca está abierta y hay libros disponibles, entonces es falso.
+Si no La biblioteca está abierta y no hay libros disponibles, entonces es falso.
+Si El estudiante estudió mucho y tiene un buen descanso, entonces es verdadero.
+Si El estudiante estudió mucho y no tiene un buen descanso, entonces es falso.
+Si no El estudiante estudió mucho y tiene un buen descanso, entonces es falso.
+Si no El estudiante estudió mucho y no tiene un buen descanso, entonces es falso.
+Si La planta tiene agua y recibe luz solar, entonces es verdadero.
+Si La planta tiene agua y no recibe luz solar, entonces es falso.
+Si no La planta tiene agua y recibe luz solar, entonces es falso.
+Si no La planta tiene agua y no recibe luz solar, entonces es falso.
+Si Hay descuento y la tienda tiene stock, entonces es verdadero.
+Si Hay descuento y no la tienda tiene stock, entonces es falso.
+Si no Hay descuento y la tienda tiene stock, entonces es falso.
+Si no Hay descuento y no la tienda tiene stock, entonces es falso.
+Si La máquina está en funcionamiento y no tiene errores, entonces es verdadero.
+Si La máquina está en funcionamiento y no no tiene errores, entonces es falso.
+Si no La máquina está en funcionamiento y no tiene errores, entonces es falso.
+Si no La máquina está en funcionamiento y no no tiene errores, entonces es falso.
+Si El dispositivo está encendido y está conectado a la red, entonces es verdadero.
+Si El dispositivo está encendido y no está conectado a la red, entonces es verdadero.
+Si no El dispositivo está encendido y está conectado a la red, entonces es verdadero.
+Si no El dispositivo está encendido y no está conectado a la red, entonces es falso.
+Si El equipo tiene entrenamiento y cuenta con recursos, entonces es verdadero.
+Si El equipo tiene entrenamiento y no cuenta con recursos, entonces es falso.
+Si no El equipo tiene entrenamiento y cuenta con recursos, entonces es falso.
+Si no El equipo tiene entrenamiento y no cuenta con recursos, entonces es falso.
+Si La impresora tiene papel y está en línea, entonces es verdadero.
+Si La impresora tiene papel y no está en línea, entonces es falso.
+Si no La impresora tiene papel y está en línea, entonces es falso.
+Si no La impresora tiene papel y no está en línea, entonces es falso.
+Si Es invierno y la calefacción está encendida, entonces es verdadero.
+Si Es invierno y no la calefacción está encendida, entonces es falso.
+Si no Es invierno y la calefacción está encendida, entonces es falso.
+Si no Es invierno y no la calefacción está encendida, entonces es falso.
+Si El autobús está en ruta y hay asientos disponibles, entonces es verdadero.
+Si El autobús está en ruta y no hay asientos disponibles, entonces es falso.
+Si no El autobús está en ruta y hay asientos disponibles, entonces es falso.
+Si no El autobús está en ruta y no hay asientos disponibles, entonces es falso.
+Si Es temprano y el tráfico es fluido, entonces es verdadero.
+Si Es temprano y no el tráfico es fluido, entonces es falso.
+Si no Es temprano y el tráfico es fluido, entonces es falso.
+Si no Es temprano y no el tráfico es fluido, entonces es falso.
+Si El vehículo tiene combustible y está en buenas condiciones, entonces es verdadero.
+Si El vehículo tiene combustible y no está en buenas condiciones, entonces es falso.
+Si no El vehículo tiene combustible y está en buenas condiciones, entonces es falso.
+Si no El vehículo tiene combustible y no está en buenas condiciones, entonces es falso.
+Si La computadora tiene batería y está cargando, entonces es verdadero.
+Si La computadora tiene batería y no está cargando, entonces es falso.
+Si no La computadora tiene batería y está cargando, entonces es falso.
+Si no La computadora tiene batería y no está cargando, entonces es falso.
