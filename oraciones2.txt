@@ -1,0 +1,80 @@
+Proposición: Si es hada y derrota a dragón, entonces puede vencer a fantasma.
+Fórmula: (A ∧ B) → C
+Mapeo: {'es hada': 'A', 'derrota a dragón': 'B', 'vence a fantasma': 'C'}
+
+Proposición: Es guerrero o es mago, pero no puede ser ambos al mismo tiempo.
+Fórmula: (D ∨ E) ∧ ¬(D ∧ E)
+Mapeo: {'es guerrero': 'D', 'es mago': 'E'}
+
+Proposición: Si el héroe tiene espada, entonces derrota a monstruo o huye.
+Fórmula: F → (G ∨ H)
+Mapeo: {'tiene espada': 'F', 'derrota a monstruo': 'G', 'huye': 'H'}
+
+Proposición: Es un buen estratega si y solo si ha ganado múltiples batallas.
+Fórmula: I ↔ J
+Mapeo: {'es un buen estratega': 'I', 'ha ganado múltiples batallas': 'J'}
+
+Proposición: Si es de día y no hay nubes, entonces salimos a explorar.
+Fórmula: (K ∧ ¬L) → M
+Mapeo: {'es de día': 'K', 'hay nubes': 'L', 'salimos a explorar': 'M'}
+
+Proposición: Es necesario que tenga armadura y un escudo para entrar al castillo.
+Fórmula: N ∧ O
+Mapeo: {'tiene armadura': 'N', 'tiene escudo': 'O'}
+
+Proposición: Si es un hechizo poderoso, entonces no puede ser contrarrestado.
+Fórmula: P → ¬Q
+Mapeo: {'es un hechizo poderoso': 'P', 'puede ser contrarrestado': 'Q'}
+
+Proposición: El portal se abrirá si y solo si recitamos el hechizo correcto y tenemos el objeto mágico.
+Fórmula: (R ∧ S) ↔ T
+Mapeo: {'recitamos el hechizo correcto': 'R', 'tenemos el objeto mágico': 'S', 'el portal se abrirá': 'T'}
+
+Proposición: Es un buen aliado si siempre ayuda a los demás o nunca traiciona.
+Fórmula: U ↔ (V ∨ ¬W)
+Mapeo: {'es un buen aliado': 'U', 'siempre ayuda a los demás': 'V', 'traiciona': 'W'}
+
+Proposición: Si se escucha el cuervo, entonces hay peligro, pero si es de noche, también hay miedo.
+Fórmula: X → (Y ∨ Z)
+Mapeo: {'se escucha el cuervo': 'X', 'hay peligro': 'Y', 'es de noche': 'Z', 'hay miedo': 'W'}
+
+Proposición: La paz se alcanzará si los líderes firman el tratado y cumplen sus promesas.
+Fórmula: (A1 ∧ B1) → C1
+Mapeo: {'los líderes firman el tratado': 'A1', 'cumplen sus promesas': 'B1', 'la paz se alcanzará': 'C1'}
+
+Proposición: No puede ser un héroe si no tiene valor o no protege a los inocentes.
+Fórmula: ¬D1 → (¬E1 ∨ F1)
+Mapeo: {'no tiene valor': 'D1', 'no protege a los inocentes': 'E1', 'es un héroe': 'F1'}
+
+Proposición: Si la luna brilla y hay estrellas, la noche será mágica.
+Fórmula: (G1 ∧ H1) → I1
+Mapeo: {'la luna brilla': 'G1', 'hay estrellas': 'H1', 'la noche será mágica': 'I1'}
+
+Proposición: Un buen rey es justo y escucha a su pueblo, o al menos no es tirano.
+Fórmula: (J1 ∧ K1) ∨ ¬L1
+Mapeo: {'es justo': 'J1', 'escucha a su pueblo': 'K1', 'es tirano': 'L1'}
+
+Proposición: Si la puerta está cerrada, entonces nadie puede entrar, a menos que tenga la llave.
+Fórmula: (M1 → N1) ∨ O1
+Mapeo: {'la puerta está cerrada': 'M1', 'nadie puede entrar': 'N1', 'tiene la llave': 'O1'}
+
+Proposición: Si hay una tormenta, el viaje será peligroso, pero si llevamos provisiones, estaremos a salvo.
+Fórmula: P1 → Q1 ∧ R1
+Mapeo: {'hay una tormenta': 'P1', 'el viaje será peligroso': 'Q1', 'llevamos provisiones': 'R1', 'estaremos a salvo': 'S1'}
+
+Proposición: Es necesario que el héroe derrote al dragón, o que busque ayuda de otros guerreros.
+Fórmula: S1 → (T1 ∨ U1)
+Mapeo: {'el héroe derrota al dragón': 'S1', 'busca ayuda de otros guerreros': 'T1'}
+
+Proposición: La magia es fuerte si se conjura con intención y se canaliza correctamente.
+Fórmula: V1 ↔ (W1 ∧ X1)
+Mapeo: {'la magia es fuerte': 'V1', 'se conjura con intención': 'W1', 'se canaliza correctamente': 'X1'}
+
+Proposición: Si hay peligro, el guerrero luchará, pero la sabia buscará una solución.
+Fórmula: (Y1 → Z1) ∧ (Y1 → A2)
+Mapeo: {'hay peligro': 'Y1', 'el guerrero luchará': 'Z1', 'la sabia buscará una solución': 'A2'}
+
+Proposición: El reino prosperará si sus habitantes trabajan juntos y respetan la ley.
+Fórmula: (B2 ∧ C2) → D2
+Mapeo: {'habitan en el reino': 'B2', 'trabajan juntos': 'C2', 'respetan la ley': 'D2'}
+

@@ -1,0 +1,20 @@
+El paciente tiene fiebre y dolor de cabeza.
+La presión arterial es alta o el pulso es irregular.
+El medicamento está en stock o la farmacia está cerrada.
+El doctor está disponible y la sala de espera está vacía.
+La enfermera está ocupada o el médico está en cirugía.
+El paciente no tiene alergias y la prueba es negativa.
+Hay oxígeno en el tanque y el ventilador funciona.
+La cirugía es mañana o el tratamiento comienza hoy.
+El corazón late rápido o la respiración es irregular.
+La radiografía está lista y la ecografía es clara.
+La cama está limpia y el cuarto está desinfectado.
+El paciente está consciente o no tiene pulso.
+La consulta es hoy y el paciente ya llegó.
+La fiebre bajó o la tos desapareció.
+No hay infección y el dolor es leve.
+La ambulancia está en camino o ya llegó.
+El análisis de sangre es normal y la presión también.
+El suero está conectado o el paciente no tiene sed.
+El hospital está lleno y el equipo está ocupado.
+No hay riesgo de contagio y el tratamiento es eficaz.

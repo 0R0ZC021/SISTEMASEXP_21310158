@@ -1,0 +1,160 @@
+Regla 1:
+
+Cláusulas de Horn:
+A ∧ B → Verdadero
+A ∧ ¬B → Falso
+¬A ∧ B → Falso
+¬A ∧ ¬B → Falso
+
+Regla 2:
+
+Cláusulas de Horn:
+A ∧ B → Verdadero
+A ∧ ¬B → Verdadero
+¬A ∧ B → Verdadero
+¬A ∧ ¬B → Falso
+
+Regla 3:
+
+Cláusulas de Horn:
+A ∧ B → Verdadero
+A ∧ ¬B → Falso
+¬A ∧ B → Falso
+¬A ∧ ¬B → Falso
+
+Regla 4:
+
+Cláusulas de Horn:
+A ∧ B → Verdadero
+A ∧ ¬B → Verdadero
+¬A ∧ B → Verdadero
+¬A ∧ ¬B → Falso
+
+Regla 5:
+
+Cláusulas de Horn:
+A ∧ B → Verdadero
+A ∧ ¬B → Falso
+¬A ∧ B → Falso
+¬A ∧ ¬B → Falso
+
+Regla 6:
+
+Cláusulas de Horn:
+A ∧ B → Verdadero
+A ∧ ¬B → Verdadero
+¬A ∧ B → Verdadero
+¬A ∧ ¬B → Falso
+
+Regla 7:
+
+Cláusulas de Horn:
+A ∧ B → Verdadero
+A ∧ ¬B → Falso
+¬A ∧ B → Falso
+¬A ∧ ¬B → Falso
+
+Regla 8:
+
+Cláusulas de Horn:
+A ∧ B → Verdadero
+A ∧ ¬B → Verdadero
+¬A ∧ B → Verdadero
+¬A ∧ ¬B → Falso
+
+Regla 9:
+
+Cláusulas de Horn:
+A ∧ B → Verdadero
+A ∧ ¬B → Falso
+¬A ∧ B → Falso
+¬A ∧ ¬B → Falso
+
+Regla 10:
+
+Cláusulas de Horn:
+A ∧ B → Verdadero
+A ∧ ¬B → Verdadero
+¬A ∧ B → Verdadero
+¬A ∧ ¬B → Falso
+
+Regla 11:
+
+Cláusulas de Horn:
+A ∧ B → Verdadero
+A ∧ ¬B → Falso
+¬A ∧ B → Falso
+¬A ∧ ¬B → Falso
+
+Regla 12:
+
+Cláusulas de Horn:
+A ∧ B → Verdadero
+A ∧ ¬B → Verdadero
+¬A ∧ B → Verdadero
+¬A ∧ ¬B → Falso
+
+Regla 13:
+
+Cláusulas de Horn:
+A ∧ B → Verdadero
+A ∧ ¬B → Falso
+¬A ∧ B → Falso
+¬A ∧ ¬B → Falso
+
+Regla 14:
+
+Cláusulas de Horn:
+A ∧ B → Verdadero
+A ∧ ¬B → Verdadero
+¬A ∧ B → Verdadero
+¬A ∧ ¬B → Falso
+
+Regla 15:
+
+Cláusulas de Horn:
+A ∧ B → Verdadero
+A ∧ ¬B → Falso
+¬A ∧ B → Falso
+¬A ∧ ¬B → Falso
+
+Regla 16:
+
+Cláusulas de Horn:
+A ∧ B → Verdadero
+A ∧ ¬B → Falso
+¬A ∧ B → Falso
+¬A ∧ ¬B → Falso
+
+Regla 17:
+
+Cláusulas de Horn:
+A ∧ B → Verdadero
+A ∧ ¬B → Verdadero
+¬A ∧ B → Verdadero
+¬A ∧ ¬B → Falso
+
+Regla 18:
+
+Cláusulas de Horn:
+A ∧ B → Verdadero
+A ∧ ¬B → Falso
+¬A ∧ B → Falso
+¬A ∧ ¬B → Falso
+
+Regla 19:
+
+Cláusulas de Horn:
+A ∧ B → Verdadero
+A ∧ ¬B → Verdadero
+¬A ∧ B → Verdadero
+¬A ∧ ¬B → Falso
+
+Regla 20:
+
+Cláusulas de Horn:
+A ∧ B → Verdadero
+A ∧ ¬B → Verdadero
+¬A ∧ B → Verdadero
+¬A ∧ ¬B → Falso
+
